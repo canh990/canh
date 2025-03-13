@@ -11,3 +11,7 @@ footer
     background-color: white;
     padding: 20px;
 }
+.giamgia{
+    text-decoration: line-through;
+    opacity: 50%;
+}
